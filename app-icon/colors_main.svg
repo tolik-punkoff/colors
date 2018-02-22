@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="colors_main.svg"
+   inkscape:export-filename="D:\DOC\Fotojaba\icons\colors\colors_main-32x32.png"
+   inkscape:export-xdpi="11.25"
+   inkscape:export-ydpi="11.25">
+  <defs
+     id="defs4">
+    <filter
+       id="filter5913"
+       inkscape:label="Chalk and sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.3"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence5915"
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1" />
+      <feOffset
+         id="feOffset5917"
+         dx="-5"
+         dy="-5"
+         result="result2" />
+      <feDisplacementMap
+         id="feDisplacementMap5919"
+         in2="result1"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter5921"
+       inkscape:label="Chalk and sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.3"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence5923"
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1" />
+      <feOffset
+         id="feOffset5925"
+         dx="-5"
+         dy="-5"
+         result="result2" />
+      <feDisplacementMap
+         id="feDisplacementMap5927"
+         in2="result1"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter5929"
+       inkscape:label="Chalk and sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.3"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence5931"
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1" />
+      <feOffset
+         id="feOffset5933"
+         dx="-5"
+         dy="-5"
+         result="result2" />
+      <feDisplacementMap
+         id="feDisplacementMap5935"
+         in2="result1"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter5937"
+       inkscape:label="Chalk and sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.3"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence5939"
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1" />
+      <feOffset
+         id="feOffset5941"
+         dx="-5"
+         dy="-5"
+         result="result2" />
+      <feDisplacementMap
+         id="feDisplacementMap5943"
+         in2="result1"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter5945"
+       inkscape:label="Chalk and sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.3"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence5947"
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1" />
+      <feOffset
+         id="feOffset5949"
+         dx="-5"
+         dy="-5"
+         result="result2" />
+      <feDisplacementMap
+         id="feDisplacementMap5951"
+         in2="result1"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter5953"
+       inkscape:label="Chalk and sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.3"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence5955"
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1" />
+      <feOffset
+         id="feOffset5957"
+         dx="-5"
+         dy="-5"
+         result="result2" />
+      <feDisplacementMap
+         id="feDisplacementMap5959"
+         in2="result1"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter5961"
+       inkscape:label="Chalk and sponge"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Low turbulence gives sponge look and high turbulence chalk"
+       width="1.6"
+       height="2"
+       y="-0.5"
+       x="-0.3"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence5963"
+         baseFrequency="0.4"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="5"
+         result="result1" />
+      <feOffset
+         id="feOffset5965"
+         dx="-5"
+         dy="-5"
+         result="result2" />
+      <feDisplacementMap
+         id="feDisplacementMap5967"
+         in2="result1"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30"
+         in="SourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="153.02612"
+     inkscape:cy="115.09027"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36218)">
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:5.71428584999999960;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter5961)"
+       d="M 1.914919,44.260384 C 2.3978008,24.75864 2.733225,22.483319 5.8714233,17.421767 10.179045,10.474073 19.859398,4.253264 29.466989,2.2587359 33.536979,1.413809 45.360579,0.90275232 55.741655,1.1230542 L 74.616338,1.523603 41.597259,30.809317 C 23.436768,46.91646 6.9602353,61.326583 4.9827447,62.831813 L 1.3873073,65.568594 1.914919,44.260384 z"
+       id="path3001"
+       inkscape:connector-curvature="0"
+       transform="translate(0,796.36218)" />
+    <path
+       style="fill:#ff7f2a;fill-opacity:1;stroke:none;filter:url(#filter5953)"
+       d="m 1.7102661,88.961397 0,-24.715237 L 36.598228,33.80785 75.021723,1.8543097 100.25422,0.82673717 120.94103,0.80931727 116.68279,4.9001362 C 108.19816,13.051172 5.2351737,105.94598 3.4959804,107.01904 2.1014073,107.87947 1.7102661,103.92414 1.7102661,88.961397 z"
+       id="path3003"
+       inkscape:connector-curvature="0"
+       transform="translate(0,796.36218)"
+       sodipodi:nodetypes="scccccsss" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;stroke:none;filter:url(#filter5945)"
+       d="m 1.7102661,128.50698 0,-24.74888 L 58.176492,56.68146 118.17825,1.523603 141.15981,1.1204716 162.57537,2.1459116 82.857105,69.55259 c -42.667498,36.07798 -76.164696,70.135 -77.9325532,71.72358 l -3.2142857,2.88833 z"
+       id="path3005"
+       inkscape:connector-curvature="0"
+       transform="translate(0,796.36218)"
+       sodipodi:nodetypes="ccccccsscc" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:none;filter:url(#filter5937)"
+       d="M 0.28169467,173.38368 0.99598036,144.80092 77.417331,73.876544 161.69582,0.80931732 l 21.37516,0 21.37517,0 L 115.32649,105.25783 C 66.45835,162.53145 6.603489,192.74823 4.8671841,194.24502 l -3.156918,2.72141 z"
+       id="path3007"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccsscc"
+       transform="translate(0,796.36218)" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:none;filter:url(#filter5929)"
+       d="M 4.6463596,1031.8437 C 3.602406,1029.658 2.4750886,1021.1054 2.1412095,1012.8378 L 0.81280408,992.7953 101.46481,895.4459 l 102.81604,-98.06519 16.85386,0.0465 c 9.40071,0.0259 12.35914,0.69406 19.4898,4.31277 5.55734,2.82027 9.87528,6.33966 12.7393,10.38332 4.18578,5.90984 1.42924,6.31904 3.26485,23.81431 l 1.45772,17.69734 -124.3283,91.2015 C 65.460102,994.93669 8.3891298,1035.2055 7.7345685,1035.4227 7.080007,1035.64 5.690313,1034.0294 4.6463596,1031.8437 z"
+       id="path3009"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscccsssscscc" />
+    <path
+       style="fill:#000080;fill-opacity:1;stroke:none;filter:url(#filter5921)"
+       d="M 25.098928,1047.3361 C 16.29017,1044.212 5.6368514,1037.2842 6.3112677,1035.2081 6.5822427,1034.3739 61.223778,991.53443 129.61425,942.90348 l 125.66744,-89.35933 0.37758,46.47622 c 0.20765,25.56192 -0.11372,46.93962 -0.71429,47.50598 -3.49659,3.29773 -212.464387,103.50625 -215.912461,103.46585 -2.245422,-0.026 -9.904497,-2.2272 -13.933591,-3.6561 z"
+       id="path3011"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscsccc" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;stroke:none;filter:url(#filter5913)"
+       d="m 41.995161,1046.6886 c 3.327469,-1.7703 52.672319,-26.138 109.655219,-54.15023 l 103.60529,-50.93135 0.40528,38.31356 c 0.24361,23.03022 -0.22477,40.79292 -1.17415,44.52902 -2.13613,8.4062 -7.90189,15.2661 -17.19986,20.4638 l -13.29936,6.854 -91.24327,0.8379 -94.778787,-0.6775 z"
+       id="path3013"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscssccccc" />
+  </g>
+</svg>
